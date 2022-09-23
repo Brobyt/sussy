@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "impostr-bean singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "impostr-bean singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "impostr-bean singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "impostr-bean singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "impostr-bean idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 26,
+			"name": "impostr-bean hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impostr-bean",
+	"position": [
+		-1800,
+		-1500
+	],
+	"healthicon": "impostr icon",
+	"flip_x": true,
+	"healthbar_colors": [
+		179,
+		10,
+		31
+	],
+	"camera_position": [
+		1500,
+		1500
+	],
+	"sing_duration": 6,
+	"scale": 0.3
+}

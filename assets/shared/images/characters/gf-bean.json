@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf-bean danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf-bean danceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-bean",
+	"position": [
+		-1800,
+		-1600
+	],
+	"healthicon": "gf icon",
+	"flip_x": true,
+	"healthbar_colors": [
+		107,
+		43,
+		60
+	],
+	"camera_position": [
+		1300,
+		1500
+	],
+	"sing_duration": 6,
+	"scale": 0.3
+}
