@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-bean.png">
+<SubTexture name="bf-bean idle0000" x="0" y="3088" width="1336" height="1444" frameX="-1233" frameY="-1246" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean idle0001" x="2689" y="3088" width="1343" height="1437" frameX="-1233" frameY="-1253" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean idle0002" x="1336" y="3088" width="1353" height="1438" frameX="-1230" frameY="-1252" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singLEFT0000" x="5193" y="2746" width="1204" height="1357" frameX="-1255" frameY="-1333" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singLEFT0001" x="5193" y="0" width="1222" height="1373" frameX="-1257" frameY="-1317" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singDOWN0000" x="1204" y="4532" width="1311" height="1315" frameX="-1225" frameY="-1356" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singDOWN0001" x="3826" y="4532" width="1321" height="1233" frameX="-1227" frameY="-1438" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singUP0000" x="2532" y="0" width="1341" height="1538" frameX="-1423" frameY="-1147" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singUP0001" x="0" y="0" width="1266" height="1550" frameX="-1420" frameY="-1135" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singRIGHT0000" x="3873" y="0" width="1320" height="1449" frameX="-1437" frameY="-1238" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean singRIGHT0001" x="1341" y="1550" width="1209" height="1474" frameX="-1406" frameY="-1213" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missLEFT0000" x="0" y="4532" width="1204" height="1357" frameX="-1255" frameY="-1333" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missLEFT0001" x="5193" y="1373" width="1222" height="1373" frameX="-1257" frameY="-1317" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missDOWN0000" x="2515" y="4532" width="1311" height="1315" frameX="-1225" frameY="-1356" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missDOWN0001" x="6415" y="0" width="1321" height="1233" frameX="-1227" frameY="-1438" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missUP0000" x="0" y="1550" width="1341" height="1538" frameX="-1423" frameY="-1147" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missUP0001" x="1266" y="0" width="1266" height="1550" frameX="-1420" frameY="-1135" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missRIGHT0000" x="3873" y="1449" width="1320" height="1449" frameX="-1437" frameY="-1238" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="bf-bean missRIGHT0001" x="2550" y="1550" width="1209" height="1474" frameX="-1406" frameY="-1213" frameWidth="4096" frameHeight="4096" />
+</TextureAtlas>

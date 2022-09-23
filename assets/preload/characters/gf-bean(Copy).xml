@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf-bean.png">
+<SubTexture name="gf-bean danceLeft0000" x="0" y="0" width="1167" height="1159" frameX="-1427" frameY="-1649" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="gf-bean danceLeft0001" x="2351" y="0" width="1186" height="1131" frameX="-1417" frameY="-1677" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="gf-bean danceLeft0002" x="1167" y="0" width="1184" height="1148" frameX="-1421" frameY="-1660" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="gf-bean danceRight0000" x="0" y="0" width="1167" height="1159" frameX="-1427" frameY="-1649" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="gf-bean danceRight0001" x="2351" y="1131" width="1170" height="1117" frameX="-1441" frameY="-1691" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="gf-bean danceRight0002" x="0" y="1159" width="1167" height="1144" frameX="-1433" frameY="-1664" frameWidth="4096" frameHeight="4096" />
+</TextureAtlas>
